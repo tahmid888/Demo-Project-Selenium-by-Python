@@ -1,0 +1,40 @@
+26-Mar-26 00:39:40 - root - INFO - ***** Test_01_AdminLogin *****
+26-Mar-26 00:39:40 - root - INFO - ***** test_title_verification *****
+26-Mar-26 00:39:41 - root - INFO - ***** test_title_verification title matched *****
+26-Mar-26 00:39:42 - root - INFO - ***** test_valid_admin_login *****
+26-Mar-26 00:39:44 - root - INFO - ***** test_invalid_admin_login *****
+26-Mar-26 01:01:51 - root - INFO - ***** Test_01_AdminLogin *****
+26-Mar-26 01:01:51 - root - INFO - ***** test_title_verification *****
+26-Mar-26 01:01:52 - root - INFO - ***** test_title_verification title matched *****
+26-Mar-26 01:02:00 - root - INFO - ***** test_valid_admin_login *****
+26-Mar-26 01:02:07 - root - INFO - ***** test_invalid_admin_login *****
+26-Mar-26 01:04:03 - root - INFO - ***** Test_01_AdminLogin *****
+26-Mar-26 01:04:03 - root - INFO - ***** test_title_verification *****
+26-Mar-26 01:04:04 - root - INFO - ***** test_title_verification title matched *****
+26-Mar-26 01:04:05 - root - INFO - ***** test_valid_admin_login *****
+26-Mar-26 01:04:07 - root - INFO - ***** test_invalid_admin_login *****
+26-Mar-26 01:05:12 - root - INFO - ***** Test_01_AdminLogin *****
+26-Mar-26 01:05:12 - root - INFO - ***** test_title_verification *****
+26-Mar-26 01:05:13 - root - INFO - ***** test_title_verification title matched *****
+26-Mar-26 01:05:14 - root - INFO - ***** test_valid_admin_login *****
+26-Mar-26 01:05:16 - root - INFO - ***** test_invalid_admin_login *****
+26-Mar-26 20:05:15 - root - INFO - ***** test_valid_admin_login *****
+26-Mar-26 20:05:15 - root - INFO - ***** Test_01_AdminLogin *****
+26-Mar-26 20:05:15 - root - INFO - ***** test_title_verification *****
+26-Mar-26 20:05:16 - root - INFO - ***** test_title_verification title matched *****
+26-Mar-26 20:05:17 - root - INFO - ***** test_invalid_admin_login *****
+26-Mar-26 20:15:21 - root - INFO - ***** Test_01_AdminLogin *****
+26-Mar-26 20:15:21 - root - INFO - ***** test_title_verification *****
+26-Mar-26 20:15:23 - root - INFO - ***** test_title_verification title matched *****
+26-Mar-26 20:15:23 - root - INFO - ***** test_valid_admin_login *****
+26-Mar-26 20:15:26 - root - INFO - ***** test_invalid_admin_login *****
+27-Mar-26 01:44:06 - root - INFO - ***** Test_01_AdminLogin *****
+27-Mar-26 01:44:06 - root - INFO - ***** test_title_verification *****
+27-Mar-26 01:44:08 - root - INFO - ***** test_title_verification title matched *****
+27-Mar-26 01:44:09 - root - INFO - ***** test_valid_admin_login *****
+27-Mar-26 01:44:11 - root - INFO - ***** test_invalid_admin_login *****
+27-Mar-26 01:48:59 - root - INFO - ***** Test_01_AdminLogin *****
+27-Mar-26 01:48:59 - root - INFO - ***** test_title_verification *****
+27-Mar-26 01:49:00 - root - INFO - ***** test_title_verification title matched *****
+27-Mar-26 01:49:01 - root - INFO - ***** test_valid_admin_login *****
+27-Mar-26 01:49:10 - root - INFO - ***** test_invalid_admin_login *****
