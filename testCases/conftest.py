@@ -25,6 +25,9 @@ def setup(browser):
         driver = webdriver.Edge()
     else:
         raise ValueError("Unsupported browser")
+
+    driver.maximize_window()
+
     return driver
 
 
