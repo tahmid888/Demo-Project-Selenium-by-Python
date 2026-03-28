@@ -38,3 +38,58 @@
 27-Mar-26 01:49:00 - root - INFO - ***** test_title_verification title matched *****
 27-Mar-26 01:49:01 - root - INFO - ***** test_valid_admin_login *****
 27-Mar-26 01:49:10 - root - INFO - ***** test_invalid_admin_login *****
+28-Mar-26 02:33:19 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:33:26 - root - INFO - Login Successful
+28-Mar-26 02:33:53 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:33:59 - root - INFO - Login Successful
+28-Mar-26 02:36:32 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:36:38 - root - INFO - Login Successful
+28-Mar-26 02:38:58 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:39:04 - root - INFO - Login Successful
+28-Mar-26 02:40:56 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:41:02 - root - INFO - Login Successful
+28-Mar-26 02:44:06 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:44:13 - root - INFO - Login Successful
+28-Mar-26 02:45:33 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:45:40 - root - INFO - Login Successful
+28-Mar-26 02:45:55 - root - INFO - Login Failed
+28-Mar-26 02:49:38 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:49:45 - root - INFO - Login Successful
+28-Mar-26 02:50:01 - root - INFO - Login Failed
+28-Mar-26 02:50:56 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:51:02 - root - INFO - Login Successful
+28-Mar-26 02:51:22 - root - INFO - Login Failed
+28-Mar-26 02:52:57 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:53:04 - root - INFO - Login Successful
+28-Mar-26 02:53:24 - root - INFO - Login Failed
+28-Mar-26 02:55:03 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:55:09 - root - INFO - Login Successful
+28-Mar-26 02:55:29 - root - INFO - Login Failed
+28-Mar-26 02:55:35 - root - INFO - Login Failed
+28-Mar-26 02:55:35 - root - INFO - Test admin DDT Test Is Failed
+28-Mar-26 02:59:26 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 02:59:58 - root - INFO - Test admin DDT Test Is Failed
+28-Mar-26 03:03:43 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 03:04:23 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 03:04:30 - root - INFO - Login Successful
+28-Mar-26 03:04:50 - root - INFO - Login Failed
+28-Mar-26 03:04:55 - root - INFO - Login Failed
+28-Mar-26 03:04:55 - root - INFO - Test admin DDT Test Is Failed
+28-Mar-26 20:19:52 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 20:20:32 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 20:20:39 - root - INFO - Login Successful
+28-Mar-26 20:20:59 - root - INFO - Login Failed
+28-Mar-26 20:21:04 - root - INFO - Login Failed
+28-Mar-26 20:21:04 - root - INFO - Test admin DDT Test Is Failed
+28-Mar-26 20:22:14 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 20:22:22 - root - INFO - Login Successful
+28-Mar-26 20:22:42 - root - INFO - Login Failed
+28-Mar-26 20:22:47 - root - INFO - Login Failed
+28-Mar-26 20:22:47 - root - INFO - Test admin DDT Test Is Failed
+28-Mar-26 20:28:39 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 20:28:46 - root - INFO - Login Successful
+28-Mar-26 20:29:13 - root - INFO - ***** test_valid_admin_login DDT *****
+28-Mar-26 20:29:19 - root - INFO - Login Successful
+28-Mar-26 20:29:40 - root - INFO - Login Failed
+28-Mar-26 20:29:45 - root - INFO - Login Failed
+28-Mar-26 20:29:45 - root - INFO - Test admin DDT Test Is Failed
